@@ -1,33 +1,33 @@
 # Chrome Profile Launcher
 
-Ein PowerShell-Skript, das alle verfügbaren Google Chrome Profile auf deinem System erkennt, die zugehörigen E-Mail-Adressen (sofern vorhanden) anzeigt und dann Chrome mit jedem Profil in einem neuen Fenster startet.
+A PowerShell script that detects all available Google Chrome profiles on your system, displays their associated email addresses (if available), and then launches Chrome with each profile in a separate window.
 
 ---
 
-## Funktionen
+## Features
 
-- Automatische Suche aller Chrome-Profile auf dem lokalen Rechner  
-- Anzeige der Profilnamen und zugehörigen E-Mail-Adressen  
-- Startet Chrome mit jedem gefundenen Profil in einem eigenen Fenster  
-- Meldungen und Fehlerbehandlung für nicht gefundene Profile oder Chrome-Installation
-
----
-
-## Voraussetzungen
-
-- Windows-Betriebssystem mit installiertem Google Chrome  
-- PowerShell (Version 5 oder höher empfohlen)
+- Automatically finds all Chrome profiles on your local machine  
+- Displays profile names and associated email addresses  
+- Launches Chrome with each found profile in its own window  
+- Provides messages and error handling if Chrome or profiles are not found
 
 ---
 
-## Nutzung
+## Requirements
 
-1. Skript in PowerShell ausführen (ggf. Ausführungsrichtlinien anpassen mit `Set-ExecutionPolicy`)  
-2. Das Skript sucht automatisch alle Chrome-Profile und startet für jedes ein eigenes Chrome-Fenster  
+- Windows operating system with Google Chrome installed  
+- PowerShell (version 5 or higher recommended)
 
 ---
 
-## Beispiel
+## Usage
+
+1. Run the script in PowerShell (you might need to adjust the execution policy with `Set-ExecutionPolicy`)  
+2. The script will automatically find all Chrome profiles and launch each one in a separate Chrome window  
+
+---
+
+## Example
 
 ```powershell
 .\chrome-profile-launcher.ps1
