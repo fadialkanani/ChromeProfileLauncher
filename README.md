@@ -2,6 +2,9 @@
 
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/efkatech)
 
+<img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/0ef6fa81-4ef0-4a77-b6fb-71ed936c7cdc" "(https://buymeacoffee.com/efkatech)"/>
+
+
 ...
 
 
