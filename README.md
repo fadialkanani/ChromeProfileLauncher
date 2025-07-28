@@ -1,4 +1,9 @@
-<img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/bc3d5754-873a-48d0-9a89-fd3c2812ca4c" />
+
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/efkatech)
+
+...
+
 
 # Chrome Profile Launcher
 
