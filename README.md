@@ -1,3 +1,5 @@
+<img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/bc3d5754-873a-48d0-9a89-fd3c2812ca4c" />
+
 # Chrome Profile Launcher
 
 A PowerShell script that detects all available Google Chrome profiles on your system, displays their associated email addresses (if available), and then launches Chrome with each profile in a separate window.
