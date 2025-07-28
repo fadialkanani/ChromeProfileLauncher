@@ -1,10 +1,10 @@
+# Donate a cup of coffee
 
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/efkatech)
-
-<img width="170" height="37" alt="image" src="https://github.com/user-attachments/assets/0ef6fa81-4ef0-4a77-b6fb-71ed936c7cdc" "(https://buymeacoffee.com/efkatech)"/>
-
-
+<a href="https://buymeacoffee.com/efkatech" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0ef6fa81-4ef0-4a77-b6fb-71ed936c7cdc" 
+       alt="Buy Me a Coffee" width="170" height="37" />
+</a>
+Don’t forget to visit the contributors’ GitHub pages to see if they have GitHub Sponsors, since they helped build this open-source project.
 ...
 
 
